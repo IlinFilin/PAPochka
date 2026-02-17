@@ -1,0 +1,15 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 64D7-4DF6
+
+ Содержимое папки C:\Windows
+
+30.10.2025  01:01    <DIR>          assembly
+27.10.2025  13:57    <DIR>          Fonts
+15.02.2025  17:20    <DIR>          ImmersiveControlPanel
+07.12.2019  12:31    <DIR>          Media
+17.02.2026  01:53    <DIR>          Microsoft.NET
+07.12.2019  12:14    <DIR>          Offline Web Pages
+13.12.2024  03:21    <DIR>          PrintDialog
+07.12.2019  12:09               670 WindowsShell.Manifest
+               1 файлов            670 байт
+               7 папок  14 658 371 584 байт свободно

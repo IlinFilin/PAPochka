@@ -1,0 +1,35 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 64D7-4DF6
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.5487.1.4\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_b740f4448ce71298\f
+
+15.08.2024  18:26                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.5487.1.4\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.3636_none_781e629683e815a4\f
+
+15.08.2024  18:27                51 wmpnss_color32.bmp
+15.08.2024  18:27                52 wmpnss_color48.bmp
+               2 файлов            103 байт
+
+ Содержимое папки C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.5487.1.4\wow64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_c1959e96c147d493\f
+
+15.08.2024  18:26                50 verisign.bmp
+               1 файлов             50 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-usertiles-client_31bf3856ad364e35_10.0.19041.1_none_df86f0e7b84bf07b
+
+07.12.2019  12:29             3 330 user.bmp
+07.12.2019  12:29             3 330 guest.bmp
+               2 файлов          6 660 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-wab-app_31bf3856ad364e35_10.0.19041.3636_none_b740f4448ce71298
+
+07.12.2019  12:09             2 702 verisign.bmp
+               1 файлов          2 702 байт
+
+ Содержимое папки C:\Windows\WinSxS\amd64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.19041.3636_none_781e629683e815a4
+
+15.10.2019  16:49             4 152 wmpnss_color32.bmp
+15.10.2019  16:49             9 272 wmpnss_color48.bmp
+               2 файлов         13 424 байт
